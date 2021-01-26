@@ -14,5 +14,10 @@ def link
   puts phrase_link
 end
 
+def all_phrases
+  puts phrase
+  puts status
+  puts phrase_link
+end
 
  
