@@ -15,4 +15,4 @@ def link
 end
 
 
-  mario,toadstool,link
+puts mario
